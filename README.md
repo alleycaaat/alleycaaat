@@ -4,7 +4,7 @@
 <h3>I'm AC, a front-end developer</h3>
 <h4> I make responsive, accessible websites and apps.  Perhaps I am biased, but I think they're kinda pretty, too. :)</h4>
 
-<h3><a href='https://www.achulslander.com/'>:wave:</a> | <a href='https://blog.achulslander.com/'><img height='21' width='21' alt='hashnode' src='https://cdn.simpleicons.org/hashnode/#2962FF'  /></a> | <a href='https://www.achulslander.com/#contact/'>:speech_balloon:</a> | <a href='https://www.buymeacoffee.com/alleycaaat' ><img height='21' width='21' alt='buy me a coffee' src='https://cdn.simpleicons.org/buymeacoffee/#FFDD00' /></a></h3>
+<h3><a href='https://www.achulslander.com/'>:link:</a> | <a href='https://blog.achulslander.com/'><img height='21' width='21' alt='hashnode' src='https://cdn.simpleicons.org/hashnode/#2962FF'  /></a> | <a href='https://www.achulslander.com/#contact/'>:speech_balloon:</a> | <a href='https://www.buymeacoffee.com/alleycaaat' ><img height='21' width='21' alt='buy me a coffee' src='https://cdn.simpleicons.org/buymeacoffee/#FFDD00' /></a></h3>
 
 When I'm not busy on my computer I can be found:
 
@@ -41,7 +41,6 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <details>
 <summary>:wrench: Tools</summary>
 
-### :wrench: Tools
 <a href='https://code.visualstudio.com'><img height='25' width='25' alt='vs code' src='https://cdn.simpleicons.org/visualstudiocode/#007ACC' /></a>
 <a href='https://git-scm.com/'><img height='25' width='25' alt='git' src='https://cdn.simpleicons.org/git/#F05025' /></a>
 <a href='https://github.com/'><img height='25' width='25' alt='github' src='https://cdn.simpleicons.org/github/454545' /></a>
@@ -56,8 +55,7 @@ At the end of the day, I love programming; I love the challenges and that it's e
 (What, don't think coffee and cats are tools of the trade?  Studies show productivity goes up 37% when a person has a purring kitty on their lap)
 <br>
 </details>
-<details>
-<summary>🌱 Currently Learning</summary><th colspan='5'>
+🌱 Currently Learning<th colspan='5'>
   
 <a href='https://expressjs.com/'><img height='25' width='25' alt='express' src='https://cdn.simpleicons.org/express/454545' /></a>
 <a href='https://nextjs.org/'><img height='25' width='25' alt='nextjs' src='https://cdn.simpleicons.org/next.js/454545' /></a>
@@ -71,14 +69,14 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <a href='https://www.coursera.org/'><img height='25' width='25' alt='coursera' src='https://cdn.simpleicons.org/coursera/#0056D2' /></a>
 <a href='https://stackoverflow.com/'><img height='25' width='25' alt='stack overflow' src='https://cdn.simpleicons.org/stackoverflow/#F58025' /></a>
 </details>
-</div>
 
+</div>
 <br>
 
 ## 📫 Find me online
 
-<a href='https://www.linkedin.com/in/achulslander' ><img height='25' width='25' alt='linkedin' src='https://cdn.simpleicons.org/linkedin/#0A66C2' /></a>
-<a href='https://twitter.com/achulslander' ><img height='25' width='25' alt='twitter' src='https://cdn.simpleicons.org/twitter/#1DA1F2' /></a>
-<a href='https://codepen.io/alleycaaat'><img height='25' width='25' alt='codepen' src='https://cdn.simpleicons.org/codepen/454545/' /></a>
-<a href='https://discordapp.come/users/427569685366833174' ><img height='25' width='25' alt='discord' src='https://cdn.simpleicons.org/discord/#5865F2'  /></a>
-<a href='https://www.frontendmentor.io/profile/alleycaaat'><img height='25' width='25' alt='front end mentor' src='https://cdn.simpleicons.org/frontendmentor/#3F54A3' /></a>
+<a href='https://www.linkedin.com/in/achulslander'><img height='25' width='25' alt='linkedin' src='https://cdn.simpleicons.org/linkedin/#0A66C2'></a>
+<a href='https://twitter.com/achulslander'>   <img height='25' width='25' alt='twitter' src='https://cdn.simpleicons.org/twitter/#1DA1F2'></a>
+<a href='https://codepen.io/alleycaaat'>   <img height='25' width='25' alt='codepen' src='https://cdn.simpleicons.org/codepen/454545/'></a>
+<a href='https://discordapp.come/users/427569685366833174'>   <img height='25' width='25' alt='discord' src='https://cdn.simpleicons.org/discord/#5865F2'></a>
+<a href='https://www.frontendmentor.io/profile/alleycaaat'>   <img height='25' width='25' alt='front end mentor' src='https://cdn.simpleicons.org/frontendmentor/#3F54A3'></a><a href='https://ko-fi.com/alleycaaat'>   <img height='27' width='27' src='https://cdn.simpleicons.org/kofi/FF5E5B' alt='ko fi logo'></a>
