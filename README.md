@@ -56,8 +56,7 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <br>
 </details>
 🌱 Currently Learning<th colspan='5'>
-  
-<a href='https://expressjs.com/'><img height='25' width='25' alt='express' src='https://cdn.simpleicons.org/express/454545' /></a>
+
 <a href='https://nextjs.org/'><img height='25' width='25' alt='nextjs' src='https://cdn.simpleicons.org/next.js/454545' /></a>
 <a href='https://reactnative.dev/'><img height='25' width='25' alt='react native' src='https://cdn.simpleicons.org/react/#61DAFB' /></a>
 </details>
