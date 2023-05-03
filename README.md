@@ -16,6 +16,25 @@ When I'm not busy on my computer I can be found:
 
 At the end of the day, I love programming; I love the challenges and that it's ever-changing, there's always more to learn. 
 
+<div align='center'>
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=alleycaaat&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=375)](https://git.io/streak-stats)
+
+<strong>:wrench: Tools</strong>
+  
+<a href='https://code.visualstudio.com'><img height='25' width='25' alt='vs code' src='https://cdn.simpleicons.org/visualstudiocode/#007ACC' /></a>
+<a href='https://git-scm.com/'><img height='25' width='25' alt='git' src='https://cdn.simpleicons.org/git/#F05025' /></a>
+<a href='https://github.com/'><img height='25' width='25' alt='github' src='https://cdn.simpleicons.org/github/454545' /></a>
+<a href='https://npmjs.com'><img height='25' width='25' alt='npm' src='https://cdn.simpleicons.org/npm/#CB3837' /></a>
+<a href='https://analytics.google.com/analytics/web/'><img height='25' width='25' alt='google analytics' src='https://cdn.simpleicons.org/googleanalytics/#E37400' /></a>
+<a href='https://jamstack.wtf/'><img height='25' width='25' alt='jamstack' src='https://cdn.simpleicons.org/jamstack/#F0047F' /></a>
+<a href='https://www.gimp.org/'><img height='25' width='25' src='https://cdn.simpleicons.org/gimp/#5C5543' /></a>
+<a href='https://www.adobe.com/products/photoshop.html'><img height='25' width='25' alt='adobe photoshop' src='https://cdn.simpleicons.org/adobephotoshop/#31A8FF' /></a>
+:coffee:
+:cat:
+
+</div>
+  
 <details>
 <summary>:floppy_disk: Technologies</summary>
 
@@ -38,28 +57,17 @@ At the end of the day, I love programming; I love the challenges and that it's e
 </table>
 
 </details>
-<details>
-<summary>:wrench: Tools</summary>
 
-<a href='https://code.visualstudio.com'><img height='25' width='25' alt='vs code' src='https://cdn.simpleicons.org/visualstudiocode/#007ACC' /></a>
-<a href='https://git-scm.com/'><img height='25' width='25' alt='git' src='https://cdn.simpleicons.org/git/#F05025' /></a>
-<a href='https://github.com/'><img height='25' width='25' alt='github' src='https://cdn.simpleicons.org/github/454545' /></a>
-<a href='https://npmjs.com'><img height='25' width='25' alt='npm' src='https://cdn.simpleicons.org/npm/#CB3837' /></a>
-<a href='https://analytics.google.com/analytics/web/'><img height='25' width='25' alt='google analytics' src='https://cdn.simpleicons.org/googleanalytics/#E37400' /></a>
-<a href='https://jamstack.wtf/'><img height='25' width='25' alt='jamstack' src='https://cdn.simpleicons.org/jamstack/#F0047F' /></a>
-<a href='https://www.gimp.org/'><img height='25' width='25' src='https://cdn.simpleicons.org/gimp/#5C5543' /></a>
-<a href='https://www.adobe.com/products/photoshop.html'><img height='25' width='25' alt='adobe photoshop' src='https://cdn.simpleicons.org/adobephotoshop/#31A8FF' /></a>
-:coffee:
-:cat:
 
-(What, don't think coffee and cats are tools of the trade?  Studies show productivity goes up 37% when a person has a purring kitty on their lap)
-<br>
-</details>
+
+
 🌱 Currently Learning<th colspan='5'>
 
 <a href='https://nextjs.org/'><img height='25' width='25' alt='nextjs' src='https://cdn.simpleicons.org/next.js/454545' /></a>
 <a href='https://reactnative.dev/'><img height='25' width='25' alt='react native' src='https://cdn.simpleicons.org/react/#61DAFB' /></a>
 </details>
+
+<!--
 <details>
 <summary>:mortar_board: How I learn</summary>
 <a href='https://www.freecodecamp.org/achulslander'><img height='25' width='25' alt='freecodecamp' src='https://cdn.simpleicons.org/freecodecamp/454545' /></a>
@@ -68,7 +76,8 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <a href='https://www.coursera.org/'><img height='25' width='25' alt='coursera' src='https://cdn.simpleicons.org/coursera/#0056D2' /></a>
 <a href='https://stackoverflow.com/'><img height='25' width='25' alt='stack overflow' src='https://cdn.simpleicons.org/stackoverflow/#F58025' /></a>
 </details>
-
+-->
+  
 </div>
 <br>
 
