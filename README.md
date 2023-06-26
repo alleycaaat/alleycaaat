@@ -35,12 +35,12 @@ At the end of the day, I love programming; I love the challenges and that it's e
 
 </div>
   
-<details>
-<summary>:floppy_disk: Technologies</summary>
+
+<strong>:floppy_disk: Technologies</strong>
 
 <table>
 <tr>
-<th colspan='6' align='center'>Front End</th><th colspan='2' align='center'>Back End</th>
+<th colspan='6' align='center'>Front End</th><th colspan='3' align='center'>Back End</th>
 </tr>
 
 <tr>
@@ -53,12 +53,9 @@ At the end of the day, I love programming; I love the challenges and that it's e
 
 <td><a href='https://fauna.com/'><img height='25' width='25' alt='fauna' src='https://cdn.simpleicons.org/fauna/#3A1AB6' /></a></td>
 <td><a href='https://firebase.google.com/'><img height='25' width='25' alt='firebase' src='https://cdn.simpleicons.org/firebase/#FFCA28' /></a></td>
+<td><a href='https://appwrite.io/'><img height='25' width='25' alt='appwrite' src='https://cdn.simpleicons.org/appwrite/#F02E65' /></a></td>
 </tr>
 </table>
-
-</details>
-
-
 
 
 🌱 Currently Learning<th colspan='5'>
