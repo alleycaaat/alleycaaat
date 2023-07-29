@@ -64,6 +64,7 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <a href='https://reactnative.dev/'><img height='25' width='25' alt='react native' src='https://cdn.simpleicons.org/react/#61DAFB' /></a>
 </details>
 
+
 <!--
 <details>
 <summary>:mortar_board: How I learn</summary>
