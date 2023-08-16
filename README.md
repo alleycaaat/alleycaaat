@@ -33,8 +33,7 @@ At the end of the day, I love programming; I love the challenges and that it's e
 :coffee:
 :cat:
 
-</div>
-  
+</div>  
 
 <strong>:floppy_disk: Technologies</strong>
 
