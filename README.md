@@ -11,7 +11,7 @@ When I'm not busy on my computer I can be found:
 :feet: running ultra marathons
 :earth_americas: traveling the globe
 :book: devouring books
-:video_game: playing video games (badly)
+:video_game: (poorly) playing video games
 :ocean: kayaking
 
 At the end of the day, I love programming; I love the challenges and that it's ever-changing, there's always more to learn. 
