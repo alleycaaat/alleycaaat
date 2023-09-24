@@ -1,9 +1,10 @@
 <div align='center'>
-
 <h1><strong>Well hello!</strong></h1>
 <h3>I'm AC, a front-end developer</h3>
 <h4>I make responsive, accessible websites and apps.  Perhaps I am biased, but I think they're kinda pretty, too. :)</h4>
+</div>
 
+<div align='center'>
 <h3><a href='https://www.achulslander.com/'>🔗</a> | <a href='https://blog.achulslander.com/'><img height='21' width='21' alt='hashnode' src='https://cdn.simpleicons.org/hashnode/#2962FF'  /></a> | <a href='https://www.achulslander.com/#contact/'>:speech_balloon:</a> | <a href='https://www.buymeacoffee.com/alleycaaat' ><img height='21' width='21' alt='buy me a coffee' src='https://cdn.simpleicons.org/buymeacoffee/#FFDD00' /></a></h3>
 
 When I'm not busy on my computer I can be found:
