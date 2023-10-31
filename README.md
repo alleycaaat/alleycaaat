@@ -18,8 +18,10 @@ When I'm not busy on my computer I can be found:
 At the end of the day, I love programming; I love the challenges and that it's ever-changing, there's always more to learn. 
 
 <div align='center'>
+
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=alleycaaat&theme=material-palenight&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=375)](https://git.io/streak-stats)
+
 
 <strong>:wrench: Tools</strong>
   
