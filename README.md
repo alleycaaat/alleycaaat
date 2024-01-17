@@ -42,7 +42,7 @@ At the end of the day, I love programming; I love the challenges and that it's e
 
 <table>
 <tr>
-<th colspan='6' align='center'>Front End</th><th colspan='3' align='center'>Back End</th>
+<th colspan='5' align='center'>Front End</th><th colspan='3' align='center'>Back End</th>
 </tr>
 
 <tr>
