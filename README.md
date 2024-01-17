@@ -51,7 +51,7 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <td><a href='https://www.css3.info/'><img height='25' width='25' alt='css3' src='https://cdn.simpleicons.org/css3/#1572B6' /> </a></td>
 <td><a href='https://sass-lang.com/'><img height='25' width='25' alt='sass' src='https://cdn.simpleicons.org/sass/#CC6699' /> </a></td>
 <td><a href='https://reactjs.org/'><img height='25' width='25' alt='react' src='https://cdn.simpleicons.org/react/#61DAFB' /></a></td>
-<td><a href='https://netlify.com'><img height='25' width='25' alt='netlify' src='https://cdn.simpleicons.org/netlify/#00C7B7' /></a></td>
+
 
 <td><a href='https://fauna.com/'><img height='25' width='25' alt='fauna' src='https://cdn.simpleicons.org/fauna/#3A1AB6' /></a></td>
 <td><a href='https://firebase.google.com/'><img height='25' width='25' alt='firebase' src='https://cdn.simpleicons.org/firebase/#FFCA28' /></a></td>
@@ -76,6 +76,8 @@ At the end of the day, I love programming; I love the challenges and that it's e
 <a href='https://www.coursera.org/'><img height='25' width='25' alt='coursera' src='https://cdn.simpleicons.org/coursera/#0056D2' /></a>
 <a href='https://stackoverflow.com/'><img height='25' width='25' alt='stack overflow' src='https://cdn.simpleicons.org/stackoverflow/#F58025' /></a>
 </details>
+
+<td><a href='https://netlify.com'><img height='25' width='25' alt='netlify' src='https://cdn.simpleicons.org/netlify/#00C7B7' /></a></td>
 -->
   
 </div>
