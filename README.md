@@ -87,6 +87,6 @@ At the end of the day, I love programming; I love the challenges and that it's e
 
 <a href='https://www.linkedin.com/in/achulslander'><img height='25' width='25' alt='linkedin' src='https://cdn.simpleicons.org/linkedin/#0A66C2'></a>
 <a href='https://codepen.io/alleycaaat'>   <img height='25' width='25' alt='codepen' src='https://cdn.simpleicons.org/codepen/454545/'></a>
-<a href='https://discordapp.com/users/427569685366833174'>   <img height='25' width='25' alt='discord' src='https://cdn.simpleicons.org/discord/#5865F2'></a>
+<a href='https://discord.com/users/427569685366833174'>   <img height='25' width='25' alt='discord' src='https://cdn.simpleicons.org/discord/#5865F2'></a>
 <a href='https://www.frontendmentor.io/profile/alleycaaat'>   <img height='25' width='25' alt='front end mentor' src='https://cdn.simpleicons.org/frontendmentor/#3F54A3'></a><a href='https://ko-fi.com/alleycaaat'>   <img height='27' width='27' src='https://cdn.simpleicons.org/kofi/FF5E5B' alt='ko fi logo'></a>
 <a href='https://twitter.com/achulslander'>   <img height='25' width='25' alt='twitter' src='https://cdn.simpleicons.org/twitter/#1DA1F2'></a>
